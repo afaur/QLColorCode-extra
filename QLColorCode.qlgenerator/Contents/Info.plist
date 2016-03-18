@@ -526,6 +526,25 @@
 				<string>public.source-code</string>
 			</array>
 			<key>UTTypeDescription</key>
+			<string>C# Source File</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.microsoft.csharp-source</string>
+			<key>UTTypeReferenceURL</key>
+			<string>http://www.microsoft.com/</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>hx</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.source-code</string>
+			</array>
+			<key>UTTypeDescription</key>
 			<string>Visual Basic Source File</string>
 			<key>UTTypeIdentifier</key>
 			<string>com.microsoft.vb-source</string>
